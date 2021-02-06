@@ -10,7 +10,11 @@ The main objective of this project is to analyse various COVID-19 datasets and c
 
 ### India
 https://api.covid19india.org/csv/latest/raw_data3.csv
+
 https://api.covid19india.org/csv/latest/state_wise.csv
+
 https://api.covid19india.org/csv/latest/case_time_series.csv
+
 https://api.covid19india.org/csv/latest/district_wise.csv
+
 https://api.covid19india.org/zones.json
